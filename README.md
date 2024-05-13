@@ -1,6 +1,7 @@
 # **Garfield8123** 👋
+- 🔭 I’m currently working on expanding my knowledge with cybersecurity. 
 
-[![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garfield8123&theme=dracula&utcOffset=-8.00)](https://card-github-pied.vercel.app/)
+<!--[![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garfield8123&theme=dracula&utcOffset=-8.00)](https://card-github-pied.vercel.app/)
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=garfield8123&theme=dracula)](https://card-github-pied.vercel.app/)
 [![MostCommit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garfield8123&theme=dracula)](https://card-github-pied.vercel.app/)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=garfield8123)](https://readme-streak-beta.vercel.app/)
