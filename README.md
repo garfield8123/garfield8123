@@ -1,5 +1,5 @@
 # **Garfield8123** 👋
-- 🔭 I’m currently working on expanding my knowledge with cybersecurity. 
+- 🔭 I’m currently working on my custom portfolio website garfield8123.com
 
 <!--[![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garfield8123&theme=dracula&utcOffset=-8.00)](https://card-github-pied.vercel.app/)
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=garfield8123&theme=dracula)](https://card-github-pied.vercel.app/)
